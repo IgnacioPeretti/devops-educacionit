@@ -6,7 +6,7 @@ Encontrarás una variedad de desafíos que abarcan diferentes tecnologías y con
 
 Cada carpeta incluye una breve descripción de cada tarea, así como instrucciones para su ejecución.
 
-*Bootcamp Finalizado el 28 de septiembre de 2024*
+*Bootcamp Finalizado el 16 de octubre de 2024*
 
 
 
